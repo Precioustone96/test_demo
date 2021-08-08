@@ -2,3 +2,4 @@ name = precious
 reg no 201318369
 adress = amakohia
 age = 25
+time = midnight
